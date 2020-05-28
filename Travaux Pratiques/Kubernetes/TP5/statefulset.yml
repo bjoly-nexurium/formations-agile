@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: statefulset-name
+spec:
+  selector:
+    matchLabels:
+      app: app-name
+  serviceName: "service-name"
+  replicas: 3
+  updateStrategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: app-name
+    spec:
+      containers:
+      - name: container-name
+        image: ...
+        ports:
+        - containerPort: 80
+          name: port-name
+        volumeMounts:
+        - name: pvc-name
+          mountPath: ...
+  volumeClaimTemplates:
+  - metadata:
+      name: pvc-name
+      annotations:
+        ...
+    spec:
+      accessModes: [ "ReadWriteOnce" ]
+      resources:
+        requests:
+          storage: 1Gi
