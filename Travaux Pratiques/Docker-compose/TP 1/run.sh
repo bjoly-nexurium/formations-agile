@@ -7,7 +7,7 @@ docker-compose stop
 docker-compose rm
 
 
-docker-compose up --scale phpapp=4
+#docker-compose up --scale phpapp=4
 
 docker images
 

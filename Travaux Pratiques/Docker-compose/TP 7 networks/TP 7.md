@@ -95,12 +95,9 @@ $ docker stop my-webserver
 
 $ docker network prune
 
-
-
 ###Pour en savoir plus : 
 
 https://docs.docker.com/compose/networking/
-
 
     version: "3"
     services:

@@ -8,10 +8,10 @@ The docker-compose.yml file looks like this:
     services:
         phpapp:
             image: php:7.2-apache
-        ports:
-            - "8080:80"
-        volumes:
-            - "./:/var/www/html"
+            ports:
+                - "8080:80"
+            volumes:
+                - "./:/var/www/html"
 
 _index.php_
 
