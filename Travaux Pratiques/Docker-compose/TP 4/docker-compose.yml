@@ -14,7 +14,7 @@ services:
 
   db:
     image : mysql:5.7
-    restart: always   
+    restart: always
     environment:
       MYSQL_ROOT_PASSWORD: my!!root!!pw
-    container_name: myphpapp-db   
+    container_name: myphpapp-db
