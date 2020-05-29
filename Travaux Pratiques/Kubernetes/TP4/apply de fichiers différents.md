@@ -18,7 +18,6 @@ $  kubectl get pods -l app=nginx
     kind: Deployment
     metadata:
       name: nginx-deployment
-      origin: fabien #<--- mettez votre nom
     spec:
       selector:
         matchLabels:

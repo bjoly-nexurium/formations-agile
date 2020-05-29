@@ -4,11 +4,14 @@ metadata:
   name: my-nginx
   labels:
     run: my-nginx
+    origin: fabien
 spec:
+  type: LoadBalancer
   ports:
   - port: 80
     protocol: TCP
   selector:
     run: my-nginx
+    origin: fabien
 
 

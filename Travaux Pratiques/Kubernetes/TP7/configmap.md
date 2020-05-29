@@ -22,7 +22,7 @@ __ y a des commandes pour générer une config map à partir d'un fichier de pro
 
 
 
-$kubectl create configmap special-config --from-literal=special.how=very
+$ kubectl create configmap special-config --from-literal=special.how=very
 
 
 $ k create -f pod-utilisant-uneconfig-map.yaml    

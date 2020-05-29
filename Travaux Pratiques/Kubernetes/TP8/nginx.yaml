@@ -6,11 +6,13 @@ spec:
   selector:
     matchLabels:
       run: my-nginx
+      origin: fabien
   replicas: 2
   template:
     metadata:
       labels:
         run: my-nginx
+        origin: fabien
     spec:
       containers:
       - name: my-nginx
