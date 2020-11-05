@@ -1,4 +1,4 @@
 <?php
-	echo 'SALUT BORDEAAAAAAUX !!';
+    phpinfo();
 ?>
 
