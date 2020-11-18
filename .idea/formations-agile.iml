@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="kubernetes-engine-samples" />
+  </component>
+</module>

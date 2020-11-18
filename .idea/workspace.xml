@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6df9070-3790-491a-921a-f700f357efa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code-Retreat and Software-Crafting.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/Code-Retreat and Software-Crafting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/Formation Docker.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/adam/commit_ici.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/guillaume/commit_ici.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/imad/commit_ici.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/src/main/java/com/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/src/test/java/com/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/arti-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/classes/com/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/surefire-reports/TEST-com.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/surefire-reports/com.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/multistagejava/target/test-classes/com/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.huskyrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.lintstagedrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/.yo-rc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/sonar-project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/central-server-config/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/central-server-config/docker-config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/central-server-config/localhost-config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/elasticsearch.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/grafana/provisioning/dashboards/JVM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/grafana/provisioning/dashboards/dashboard.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/grafana/provisioning/datasources/datasource.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/jhipster-registry.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/monitoring.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/mysql.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/prometheus/prometheus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/docker/sonar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/ApplicationWebXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/JhipsterSampleApplicationApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/aop/logging/LoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/client/UserFeignClientInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/ApplicationProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/AsyncConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/CacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/CloudDatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/DatabaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/DateTimeFormatConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/ElasticsearchConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/FeignConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/JacksonConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/LiquibaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/LocaleConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/LoggingAspectConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/WebConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/audit/AuditEventConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/audit/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/config/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/domain/AbstractAuditingEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/domain/PersistentAuditEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/domain/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/repository/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/repository/search/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/AuthoritiesConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/SecurityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/SpringSecurityAuditorAware.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/jwt/JWTConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/jwt/JWTFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/jwt/TokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/security/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/errors/BadRequestAlertException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/errors/ErrorConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/errors/ExceptionTranslator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/errors/FieldErrorVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/errors/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/java/com/fabinout/dockercompose/web/rest/vm/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/jib/entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/.h2.server.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/application-tls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/bootstrap-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/liquibase/master.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/config/tls/keystore.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/i18n/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/main/resources/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/ArchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/config/ElasticsearchTestConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/config/WebConfigurerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/config/WebConfigurerTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/config/timezone/HibernateTimeZoneIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/repository/timezone/DateTimeWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/repository/timezone/DateTimeWrapperRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/security/SecurityUtilsUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/security/jwt/JWTFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/security/jwt/TokenProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/web/rest/TestUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/web/rest/errors/ExceptionTranslatorIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/java/com/fabinout/dockercompose/web/rest/errors/ExceptionTranslatorTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/config/application-testcontainers.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/config/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/config/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/i18n/messages_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/i18n/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/projet-jhipster/src/test/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-Intra-Docker-boursorama-1/gautier/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-Intra-Docker-boursorama-1/gautier/Dockerfile_old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-Intra-Docker-boursorama-1/gautier/command.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-Intra-Docker-boursorama-1/gautier/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formation/2020-11-Intra-Docker-boursorama-1/truc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Katas.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/Katas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ateliers.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/ateliers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/print/paper.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/print/paper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/print/pdf.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/print/pdf.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reveal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/reveal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/source/white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/theme/source/white.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/theme/template/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/theme/template/settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/template/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/theme/template/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/css/theme/white.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4rules.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/4rules.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Cycle_V.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Cycle_V.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/EmilyBache.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/EmilyBache.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Game_of_life_torus_100_100_1500.gif" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Game_of_life_torus_100_100_1500.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Git_operations.svg.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Git_operations.svg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Law-of-Two-Feet.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Law-of-Two-Feet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layers-agile.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Layers-agile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/Layers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SAFe.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/SAFe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ShuHaRi.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/ShuHaRi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/XP_loop.svg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/XP_loop.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/XP_practices.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/XP_practices.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/agile-vs-classic.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/agile-vs-classic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/agile_manifesto.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/agile_manifesto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arxta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/arxta.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bac-affinage.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/bac-affinage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backlog.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/backlog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/backlogs.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/backlogs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/burndown.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/burndown.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/burnup.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/burnup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chicken-pig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/chicken-pig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cleancode.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/cleancode.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/comment.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/comment.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/comment2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/comment2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/communities.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/communities.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/continuous_deployement.gif" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/continuous_deployement.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cucumber.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/cucumber.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/delegation-poker-cards-4-1024x768.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/delegation-poker-cards-4-1024x768.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dette-technique.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/dette-technique.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/devops.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/devops.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/features_used.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/features_used.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/forge-intermediate.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/forge-intermediate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gameofliferules.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/gameofliferules.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git_branch.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/git_branch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git_workflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/git_workflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git_workflow_simple.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/git_workflow_simple.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro/benefices.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/intro/benefices.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/intro/benefices2.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/intro/benefices2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iteratif.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/iteratif.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/1-observer.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/1-observer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/10-pull.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/10-pull.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/11-Pull.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/11-Pull.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/12-problème.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/12-problème.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/13-cause.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/13-cause.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/2-observer.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/2-observer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/3-elements-placé.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/3-elements-placé.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/4-placement-réel.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/4-placement-réel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/5-attendre.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/5-attendre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/6-responsable.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/6-responsable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/7-DoD.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/7-DoD.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/8-problèmes.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/8-problèmes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/9-cause.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/9-cause.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kanban/lead-time.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/kanban/lead-time.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lean.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/lean.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/merge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/merge_rebase_depart.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/merge_rebase_depart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/metaphore_gestion_projet_balancoire_arbre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/metaphore_gestion_projet_balancoire_arbre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/os-4-principles.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/os-4-principles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pipeline-concept.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/pipeline-concept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/qualité.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/qualité.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/radiators-guerilla.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/radiators-guerilla.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rebase.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/rebase.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/report-chaos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/report-chaos.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/req-prod-test.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/req-prod-test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/roi.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/roi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/safeparody.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/safeparody.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scrum-de-scrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/scrum-de-scrum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scrum-framework.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/scrum-framework.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scrum-values.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/scrum-values.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/scrum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/silos.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/silos.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/socrates_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/socrates_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/software_craftsmanship_manifesto.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/software_craftsmanship_manifesto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tdd_flow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/tdd_flow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test_Csharp.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/test_Csharp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test_in_5_steps.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/test_in_5_steps.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/test_pyramid.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/test_pyramid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tools/1200px-Screenshot_redmine.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/tools/1200px-Screenshot_redmine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tools/kanban-board.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/tools/kanban-board.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tools/kanban-jira.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/tools/kanban-jira.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/traditionel.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/traditionel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/unit_test_kotlin.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/unit_test_kotlin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/unit_test_ruby.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/unit_test_ruby.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/US-FICHIERS-CLIENTS.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/US-FICHIERS-CLIENTS.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/US-mails.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/US-mails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/elephant-carpaccio.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/elephant-carpaccio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/persona.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/persona.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/personas-easytri.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/personas-easytri.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/us-photos-commentaire.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/us-photos-commentaire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/us-size-vs-time.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/us-size-vs-time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/us-slicing.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/us-slicing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/us/us.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/us/us.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/valeur-agile.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/valeur-agile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/valeur-classique.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/valeur-classique.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/xkcd-mars-rover.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/xkcd-mars-rover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/xp_explained.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/xp_explained.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/xy.png" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/images/xy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro-agile.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/intro-agile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/js/reveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/legacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/css/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/css/zenburn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/league-gothic/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/league-gothic/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/league-gothic/league-gothic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/league-gothic/league-gothic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/league-gothic/league-gothic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/league-gothic/league-gothic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-italic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-italic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro.css" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/js/classList.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/js/classList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/js/head.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/js/head.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/lib/js/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan.csv" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/highlight/highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/highlight/highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/markdown/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/markdown/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/markdown/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/markdown/example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/markdown/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/markdown/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/markdown/marked.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/markdown/marked.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/math/math.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/math/math.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/multiplex/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/multiplex/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/multiplex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/multiplex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/multiplex/master.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/multiplex/master.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/multiplex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/multiplex/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/notes-server/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/notes-server/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/notes-server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/notes-server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/notes-server/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/notes-server/notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/notes/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/notes/notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/notes/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/notes/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/print-pdf/print-pdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/print-pdf/print-pdf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/zoom-js/zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/plugin/zoom-js/zoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrum.html" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/scrum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo" beforeDir="false" afterPath="$PROJECT_DIR$/slides-agile-revealjs/todo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="JupyterTrust" id="a0dd268a-eeb9-49a2-8aa8-cc161a000ac7" />
+  <component name="ProjectId" id="1bklHp3uZFnp5ReyouxezAb8l9W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gcp-infra" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Kubernetes/secrets" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Kubernetes/TP5" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Docker-compose/TP 3" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Docker-compose/TP 1/" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Kubernetes/TP8" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Docker-compose/TP 4" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Docker-compose/TP 4/" />
+      <recent name="$PROJECT_DIR$/Travaux Pratiques/Docker-compose/TP 3/" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6df9070-3790-491a-921a-f700f357efa9" name="Default Changelist" comment="" />
+      <created>1589183886914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589183886914</updated>
+      <workItem from="1589183889854" duration="6323000" />
+      <workItem from="1589401072498" duration="6139000" />
+      <workItem from="1589551907275" duration="3000" />
+      <workItem from="1590435968354" duration="72743000" />
+      <workItem from="1591597752580" duration="1066000" />
+      <workItem from="1591603876015" duration="603000" />
+      <workItem from="1604502566444" duration="5660000" />
+      <workItem from="1604571940068" duration="10523000" />
+      <workItem from="1604655677238" duration="7258000" />
+      <workItem from="1605183489395" duration="2882000" />
+      <workItem from="1605732725066" duration="331000" />
+    </task>
+    <task id="LOCAL-00001" summary="ajout du Tp1">
+      <created>1590512195728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590512195729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'fabien' of github.com:Fabinout/formations-agile into fabien&#10;&#10;# Conflicts:&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/Dockerfile&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/docker-compose.yml&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/index.php">
+      <created>1590681713367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590681713367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout d'un setup d'env">
+      <created>1590682183180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590682183180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="présentation 101">
+      <created>1590694978458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590694978458</updated>
+    </task>
+    <task id="LOCAL-00005" summary="firest exercice 1.md">
+      <created>1590700214574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590700214574</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commandes de base">
+      <created>1590700235821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590700235821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercices 3 premiers déploiements">
+      <created>1590700258398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590700258398</updated>
+    </task>
+    <task id="LOCAL-00008" summary="oublié le yml">
+      <created>1590700281244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590700281244</updated>
+    </task>
+    <task id="LOCAL-00009" summary="idempotence">
+      <created>1590701838148</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590701838148</updated>
+    </task>
+    <task id="LOCAL-00010" summary="statefulset.yml">
+      <created>1590704438742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590704438742</updated>
+    </task>
+    <task id="LOCAL-00011" summary="deaemonset">
+      <created>1590704449338</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590704449338</updated>
+    </task>
+    <task id="LOCAL-00012" summary="config maps">
+      <created>1590704536473</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590704536473</updated>
+    </task>
+    <task id="LOCAL-00013" summary="maj du TP sur les config map">
+      <created>1590707287523</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590707287523</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ajout du store">
+      <created>1590708376800</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590708376800</updated>
+    </task>
+    <task id="LOCAL-00015" summary="tp8">
+      <created>1590708385335</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590708385335</updated>
+    </task>
+    <task id="LOCAL-00016" summary="tp 9">
+      <created>1590708397949</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590708397949</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ajout de slides pour la présentation">
+      <created>1590708415832</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590708415832</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ajout de slides pour la présentation">
+      <created>1590753356756</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590753356756</updated>
+    </task>
+    <task id="LOCAL-00019" summary="push des images">
+      <created>1590754606533</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590754606533</updated>
+    </task>
+    <task id="LOCAL-00020" summary="réponse à la question comment on déplace un volume">
+      <created>1590760331667</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590760331667</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updated files">
+      <created>1605184509677</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605184509677</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/fabien/projects/formations/formations-agile/Travaux Pratiques/Docker-compose" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="docker_tp" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="fabien" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout du Tp1" />
+    <MESSAGE value="Merge branch 'fabien' of github.com:Fabinout/formations-agile into fabien&#10;&#10;# Conflicts:&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/Dockerfile&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/docker-compose.yml&#10;#&#9;Travaux Pratiques/Docker-compose/TP 4/index.php" />
+    <MESSAGE value="ajout d'un setup d'env" />
+    <MESSAGE value="présentation 101" />
+    <MESSAGE value="firest exercice 1.md" />
+    <MESSAGE value="commandes de base" />
+    <MESSAGE value="exercices 3 premiers déploiements" />
+    <MESSAGE value="oublié le yml" />
+    <MESSAGE value="idempotence" />
+    <MESSAGE value="statefulset.yml" />
+    <MESSAGE value="deaemonset" />
+    <MESSAGE value="config maps" />
+    <MESSAGE value="maj du TP sur les config map" />
+    <MESSAGE value="ajout du store" />
+    <MESSAGE value="tp8" />
+    <MESSAGE value="tp 9" />
+    <MESSAGE value="ajout de slides pour la présentation" />
+    <MESSAGE value="push des images" />
+    <MESSAGE value="réponse à la question comment on déplace un volume" />
+    <MESSAGE value="updated files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="91" width="796" height="851" key="CommitChangelistDialog2" timestamp="1605184509547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="91" width="796" height="851" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605184509547" />
+    <state x="99" y="98" width="1720" height="840" key="DiffContextDialog" timestamp="1605183904275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="99" y="98" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605183904275" />
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1604666943138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604666943138" />
+    <state x="182" y="86" width="1536" height="857" key="MergeDialog" timestamp="1605184469166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="86" width="1536" height="857" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605184469166" />
+    <state x="597" y="282" width="715" height="469" key="MultipleFileMergeDialog" timestamp="1605184474400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="597" y="282" width="715" height="469" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605184474400" />
+    <state x="717" y="225" width="475" height="583" key="RollbackChangesDialog" timestamp="1605732988761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="225" width="475" height="583" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605732988761" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1604587042535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604587042535" />
+    <state x="689" y="255" width="540" height="524" key="StructurePopup" timestamp="1604583008493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="255" width="540" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1604583008493" />
+    <state x="742" y="169" width="426" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604505783223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="169" width="426" height="695" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604505783223" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605732747561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605732747561" />
+    <state x="665" y="268" width="589" height="502" key="find.popup" timestamp="1605183592346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="268" width="589" height="502" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605183592346" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1605184622329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup.inPresentationMode" timestamp="1604587406504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1604587406504" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605184622329" />
+  </component>
+</project>

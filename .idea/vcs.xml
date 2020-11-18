@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Formation/2020-11-InterentrepriseDocker/fabien/kubernetes-engine-samples" vcs="Git" />
+    <mapping directory="$USER_HOME$/tmp/kubernetes-engine-samples" vcs="Git" />
+  </component>
+</project>
