@@ -1,0 +1,3 @@
+[submodule "Formation/2020-11-Intra-Docker-boursorama-1/Formation/2020-11-Intra-Docker-boursorama-1/Bastien/multi-stage/aston-villa-app"]
+	path = Formation/2020-11-Intra-Docker-boursorama-1/Formation/2020-11-Intra-Docker-boursorama-1/Bastien/multi-stage/aston-villa-app
+	url = https://github.com/wkrzywiec/aston-villa-app.git
